@@ -1,7 +1,7 @@
 Sharma-Tools
 ============
 
-Utility class to make SharedPreferences more handy
+A bundle mixing all utilities class that can make Android API features more handy.
 
 
 Contributing
